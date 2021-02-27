@@ -14,9 +14,9 @@
 <p>
 <ul>
  <li>Clonar repositório</li>
- <li>Acessar a raiz do projeto no terminal e digitar: npm install</li>
- <li>Ao terminar de instalar as dependências, digitar npm run dev</li>
- <li>Acessar a pasta src em outro terminal e digitar http-server</li>
+ <li>Acessar a raiz do projeto no terminal e digitar: "npm install"</li>
+ <li>Ao terminar de instalar as dependências, digitar "npm run dev"</li>
+ <li>Acessar a pasta src em outro terminal e digitar "npm install http-server -g" e logo após digitar "http-server"</li>
  <li>A aplicação poderá ser acessada no browser por http://127.0.0.1:8080 ou http://192.168.15.7:8080</li>
 </ul>
 </p>
