@@ -1,6 +1,6 @@
 <h1 align="center">Teste prático RPC - Hugo</h1>
 <h4>Desafio:</h4>
-<p align="center">Construir uma aplicação para que os telespectadores possam acessar a grade de programação da RPC. Para que sua aplicação web seja útil ao público final (nossos telespectadores), você deverá consumir a API "EPG" da Globo e conseguir as informações relacionadas a grade de programação da RPC. O endereço da API "EPG" responsável por retornar os dados da programação é: https://epg-api.video.globo.com/programmes/{ID_EMISSORA}?date={ANO-MES-DIA}. O valor ID_EMISSORA para a RPC é 1337, e o formato padrão para o campo "date" é "ANO-MES-DIA".
+<p>Construir uma aplicação para que os telespectadores possam acessar a grade de programação da RPC. Para que sua aplicação web seja útil ao público final (nossos telespectadores), você deverá consumir a API "EPG" da Globo e conseguir as informações relacionadas a grade de programação da RPC. O endereço da API "EPG" responsável por retornar os dados da programação é: https://epg-api.video.globo.com/programmes/{ID_EMISSORA}?date={ANO-MES-DIA}. O valor ID_EMISSORA para a RPC é 1337, e o formato padrão para o campo "date" é "ANO-MES-DIA".
 <br><br>Lembrando que a aplicação construída deverá conter as funcionalidades abaixo:
 
 - Exibir a grade de programação do dia, disposta de 00:00 até 23:59;
@@ -11,7 +11,7 @@
 </p>
 
 <h4>Para executar:</h4>
-<p align="center">
+<p>
 <ul>
  <li>Clonar repositório</li>
  <li>Acessar a raiz do projeto no terminal e digitar: npm install</li>
